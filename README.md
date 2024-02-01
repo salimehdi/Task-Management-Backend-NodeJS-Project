@@ -61,10 +61,6 @@ https://task-man-tryx.onrender.com/api/fetch/
 
 Contributions are welcome! Please read the contributing guide before submitting pull requests.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 ## Contact
 
 For any questions or concerns, please open an issue on GitHub.
